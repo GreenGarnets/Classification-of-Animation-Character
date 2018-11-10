@@ -5,6 +5,14 @@ Fork https://github.com/kuangliu/pytorch-cifar
 Classification of Animation Character, Until now, we have learned 6 characters of idolmaster.
 Will be added later
 
+# License
+https://github.com/kuangliu/pytorch-cifar
+https://9bow.github.io/PyTorch-tutorials-kr-0.3.1/beginner/transfer_learning_tutorial.html
+![lbpcascade_animeface.xml](lbpcascade_animeface.xml) is created by [nagadomi/lbpcascade_animeface](https://github.com/nagadomi/lbpcascade_animeface).
+
+Copyright for all images are owned by their respective creators.
+
+
 --------------------------------------------------------------------------------
 # Train CIFAR10 with PyTorch
 
