@@ -1,3 +1,11 @@
+# Classification-of-Animation-Character
+
+Fork https://github.com/kuangliu/pytorch-cifar
+
+Classification of Animation Character, Until now, we have learned 6 characters of idolmaster.
+Will be added later
+
+--------------------------------------------------------------------------------
 # Train CIFAR10 with PyTorch
 
 I'm playing with [PyTorch](http://pytorch.org/) on the CIFAR10 dataset.
