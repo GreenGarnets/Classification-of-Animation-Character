@@ -3,6 +3,17 @@
 Fork https://github.com/kuangliu/pytorch-cifar
 
 Classification of Animation Character, Until now, we have learned 6 characters of idolmaster.
+
+Classification Character :
+shirasaka koume
+sibuya rin
+takagaki kaede
+koshimiz sachiko
+
+Result 4 Character Use ShuffelNetV2
+![answer](./Assets/answer.png)<br>
+accuracy = 95.00 (58 images correct in 60 images)
+<br><br>
 Will be added later
 
 # License
