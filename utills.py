@@ -32,6 +32,7 @@ TOTAL_BAR_LENGTH = 65.
 last_time = time.time()
 begin_time = last_time
 def progress_bar(current, total, msg=None):
+	
     global last_time, begin_time
     if current == 0:
         begin_time = time.time()  # Reset for new bar.
@@ -70,8 +71,8 @@ def progress_bar(current, total, msg=None):
 
     if current < total-1:
         sys.stdout.write('\r')
-    else:
-        sys.stdout.write('\n')
+    #else:
+        #sys.stdout.write('\n')
     sys.stdout.flush()
 
 def format_time(seconds):
